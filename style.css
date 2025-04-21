@@ -5,7 +5,7 @@
 .nav-bar{
     width:100%;
     height: 60px;
-    background-color: antiquewhite;
+    background-color: rgb(248, 210, 161);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,7 +22,7 @@
     font-weight: 500;
 }
 .first{
-    background-color:rgb(246, 235, 236);
+    background-color:rgb(248, 228, 229);
 }
 .main .child{
     width: 120px;
